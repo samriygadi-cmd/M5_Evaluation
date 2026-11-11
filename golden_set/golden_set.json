@@ -1,0 +1,4304 @@
+[
+ {
+  "case_id": "R01",
+  "ground_truth": {
+   "fcfs_total_delay_min": 2643.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 1616.0,
+   "reference_conflicts": [
+    [
+     "72596-1",
+     "74163-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 10 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "01C",
+    "eta": "2025-05-03 07:24",
+    "etd": "2025-05-03 18:13",
+    "modules": "6-12",
+    "vessel_id": "72260-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-03 13:27",
+    "etd": "2025-05-03 15:30",
+    "modules": "21-23",
+    "vessel_id": "74189-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-03 19:39",
+    "etd": "2025-05-05 22:29",
+    "modules": "13-16",
+    "vessel_id": "74163-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-03 20:03",
+    "etd": "2025-05-04 10:13",
+    "modules": "20-23",
+    "vessel_id": "74133-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-04 06:18",
+    "etd": "2025-05-04 19:19",
+    "modules": "6-13",
+    "vessel_id": "72596-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-04 13:28",
+    "etd": "2025-05-04 15:31",
+    "modules": "21-23",
+    "vessel_id": "74190-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-04 16:22",
+    "etd": "2025-05-04 22:47",
+    "modules": "20-23",
+    "vessel_id": "74133-3"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-05 13:28",
+    "etd": "2025-05-05 15:32",
+    "modules": "21-23",
+    "vessel_id": "74191-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-05 19:27",
+    "etd": "2025-05-05 23:33",
+    "modules": "20-23",
+    "vessel_id": "74134-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-06 07:38",
+    "etd": "2025-05-06 19:29",
+    "modules": "6-12",
+    "vessel_id": "72547-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-06 18:53",
+    "etd": "2025-05-06 22:05",
+    "modules": "13-16",
+    "vessel_id": "74130-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-05-06 19:28",
+    "etd": "2025-05-06 22:46",
+    "modules": "20-23",
+    "vessel_id": "74136-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R02",
+  "ground_truth": {
+   "fcfs_total_delay_min": 113.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 113.0,
+   "reference_conflicts": [
+    [
+     "80211-1",
+     "80231-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 5 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "01C",
+    "eta": "2025-12-27 13:49",
+    "etd": "2025-12-27 15:34",
+    "modules": "21-23",
+    "vessel_id": "80210-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-12-27 19:01",
+    "etd": "2025-12-28 14:49",
+    "modules": "19-23",
+    "vessel_id": "80231-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-12-27 20:08",
+    "etd": "2025-12-29 22:07",
+    "modules": "13-16",
+    "vessel_id": "80220-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-12-28 07:49",
+    "etd": "2025-12-28 18:14",
+    "modules": "6-12",
+    "vessel_id": "72158-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-12-28 13:22",
+    "etd": "2025-12-28 15:02",
+    "modules": "21-23",
+    "vessel_id": "80211-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-12-28 16:03",
+    "etd": "2025-12-28 21:34",
+    "modules": "19-23",
+    "vessel_id": "80231-3"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-12-29 13:22",
+    "etd": "2025-12-29 15:31",
+    "modules": "21-23",
+    "vessel_id": "80212-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R03",
+  "ground_truth": {
+   "fcfs_total_delay_min": 684.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 684.0,
+   "reference_conflicts": [
+    [
+     "73334-1",
+     "73335-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 8 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "01D",
+    "eta": "2025-05-23 05:41",
+    "etd": "2025-05-23 18:15",
+    "modules": "2-8",
+    "vessel_id": "60886-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-05-23 08:12",
+    "etd": "2025-05-23 17:42",
+    "modules": "10-16",
+    "vessel_id": "60897-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-05-24 05:11",
+    "etd": "2025-05-24 17:05",
+    "modules": "16-23",
+    "vessel_id": "73334-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-05-24 06:15",
+    "etd": "2025-05-24 15:55",
+    "modules": "9-15",
+    "vessel_id": "71385-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-05-24 06:29",
+    "etd": "2025-05-24 18:50",
+    "modules": "23-29",
+    "vessel_id": "73335-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-05-24 07:24",
+    "etd": "2025-05-24 18:07",
+    "modules": "31-37",
+    "vessel_id": "72700-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-05-25 04:24",
+    "etd": "2025-05-25 17:12",
+    "modules": "31-37",
+    "vessel_id": "73336-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-05-25 04:38",
+    "etd": "2025-05-25 17:58",
+    "modules": "20-27",
+    "vessel_id": "60119-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-05-25 06:45",
+    "etd": "2025-05-25 17:40",
+    "modules": "10-15",
+    "vessel_id": "71386-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-05-25 07:17",
+    "etd": "2025-05-25 18:27",
+    "modules": "2-8",
+    "vessel_id": "60924-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R04",
+  "ground_truth": {
+   "fcfs_total_delay_min": 22.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 22.0,
+   "reference_conflicts": [
+    [
+     "77437-1",
+     "77439-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 2 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "19A",
+    "eta": "2025-09-07 20:32",
+    "etd": "2025-09-07 23:36",
+    "modules": "2-5",
+    "vessel_id": "77435-1"
+   },
+   {
+    "berth": "19A",
+    "eta": "2025-09-08 07:42",
+    "etd": "2025-09-08 19:15",
+    "modules": "3-5",
+    "vessel_id": "77439-1"
+   },
+   {
+    "berth": "19A",
+    "eta": "2025-09-08 18:53",
+    "etd": "2025-09-08 23:11",
+    "modules": "2-5",
+    "vessel_id": "77437-1"
+   },
+   {
+    "berth": "19A",
+    "eta": "2025-09-09 18:42",
+    "etd": "2025-09-09 23:30",
+    "modules": "1-4",
+    "vessel_id": "77586-1"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R05",
+  "ground_truth": {
+   "fcfs_total_delay_min": 3.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 3.0,
+   "reference_conflicts": [
+    [
+     "80411-1",
+     "80419-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 2 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "19A",
+    "eta": "2025-12-28 07:27",
+    "etd": "2025-12-28 22:46",
+    "modules": "2-5",
+    "vessel_id": "80415-2"
+   },
+   {
+    "berth": "19A",
+    "eta": "2025-12-29 06:23",
+    "etd": "2025-12-29 19:00",
+    "modules": "2-5",
+    "vessel_id": "80411-1"
+   },
+   {
+    "berth": "19A",
+    "eta": "2025-12-29 18:57",
+    "etd": "2025-12-29 22:47",
+    "modules": "2-5",
+    "vessel_id": "80419-1"
+   },
+   {
+    "berth": "19A",
+    "eta": "2025-12-30 18:46",
+    "etd": "2025-12-30 23:23",
+    "modules": "2-5",
+    "vessel_id": "80527-1"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R06",
+  "ground_truth": {
+   "fcfs_total_delay_min": 21.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 21.0,
+   "reference_conflicts": [
+    [
+     "74410-1",
+     "74411-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 2 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "20A",
+    "eta": "2025-05-11 06:46",
+    "etd": "2025-05-11 21:47",
+    "modules": "1-5",
+    "vessel_id": "74321-1"
+   },
+   {
+    "berth": "20A",
+    "eta": "2025-05-12 06:31",
+    "etd": "2025-05-12 08:49",
+    "modules": "1-4",
+    "vessel_id": "74410-1"
+   },
+   {
+    "berth": "20A",
+    "eta": "2025-05-12 08:28",
+    "etd": "2025-05-12 13:03",
+    "modules": "1-4",
+    "vessel_id": "74411-1"
+   },
+   {
+    "berth": "20A",
+    "eta": "2025-05-12 14:05",
+    "etd": "2025-05-12 22:00",
+    "modules": "3-6",
+    "vessel_id": "74410-3"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R07",
+  "ground_truth": {
+   "fcfs_total_delay_min": 11.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 11.0,
+   "reference_conflicts": [
+    [
+     "74768-1",
+     "74974-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 2 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "20D",
+    "eta": "2025-05-25 06:29",
+    "etd": "2025-05-25 21:41",
+    "modules": "3-6",
+    "vessel_id": "74749-1"
+   },
+   {
+    "berth": "20D",
+    "eta": "2025-05-26 06:30",
+    "etd": "2025-05-26 08:44",
+    "modules": "1-4",
+    "vessel_id": "74974-1"
+   },
+   {
+    "berth": "20D",
+    "eta": "2025-05-26 08:33",
+    "etd": "2025-05-26 12:16",
+    "modules": "2-6",
+    "vessel_id": "74768-1"
+   },
+   {
+    "berth": "20D",
+    "eta": "2025-05-26 17:17",
+    "etd": "2025-05-26 22:02",
+    "modules": "1-4",
+    "vessel_id": "74760-1"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R08",
+  "ground_truth": {
+   "fcfs_total_delay_min": 14.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 14.0,
+   "reference_conflicts": [
+    [
+     "75082-1",
+     "75124-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 1 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "22B",
+    "eta": "2025-06-05 12:55",
+    "etd": "2025-06-08 03:50",
+    "modules": "1-5",
+    "vessel_id": "75124-1"
+   },
+   {
+    "berth": "22B",
+    "eta": "2025-06-08 03:36",
+    "etd": "2025-06-08 18:08",
+    "modules": "2-4",
+    "vessel_id": "75082-1"
+   },
+   {
+    "berth": "22B",
+    "eta": "2025-06-09 06:16",
+    "etd": "2025-06-13 12:20",
+    "modules": "1-5",
+    "vessel_id": "75057-3"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R09",
+  "ground_truth": {
+   "fcfs_total_delay_min": 1182.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 1182.0,
+   "reference_conflicts": [
+    [
+     "73933-1",
+     "73975-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 0 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "22C",
+    "eta": "2025-04-16 13:04",
+    "etd": "2025-04-18 11:00",
+    "modules": "3-5",
+    "vessel_id": "73933-1"
+   },
+   {
+    "berth": "22C",
+    "eta": "2025-04-17 15:18",
+    "etd": "2025-04-18 13:36",
+    "modules": "1-3",
+    "vessel_id": "73975-1"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R10",
+  "ground_truth": {
+   "fcfs_total_delay_min": 5264.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 5264.0,
+   "reference_conflicts": [
+    [
+     "74024-1",
+     "74028-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 0 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "22C",
+    "eta": "2025-04-26 14:07",
+    "etd": "2025-05-02 21:43",
+    "modules": "6-8",
+    "vessel_id": "74028-1"
+   },
+   {
+    "berth": "22C",
+    "eta": "2025-04-29 05:59",
+    "etd": "2025-04-30 16:10",
+    "modules": "4-6",
+    "vessel_id": "74024-1"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R11",
+  "ground_truth": {
+   "fcfs_total_delay_min": 168.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 168.0,
+   "reference_conflicts": [
+    [
+     "76365-1",
+     "76514-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 1 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "22C",
+    "eta": "2025-07-24 09:11",
+    "etd": "2025-07-25 06:51",
+    "modules": "3-5",
+    "vessel_id": "76365-1"
+   },
+   {
+    "berth": "22C",
+    "eta": "2025-07-25 04:03",
+    "etd": "2025-07-25 23:23",
+    "modules": "1-3",
+    "vessel_id": "76514-1"
+   },
+   {
+    "berth": "22C",
+    "eta": "2025-07-26 03:03",
+    "etd": "2025-07-27 08:33",
+    "modules": "1-4",
+    "vessel_id": "76388-1"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R12",
+  "ground_truth": {
+   "fcfs_total_delay_min": 25689.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 16351.0,
+   "reference_conflicts": [
+    [
+     "72720-1",
+     "73195-1"
+    ],
+    [
+     "73108-1",
+     "73195-1"
+    ]
+   ]
+  },
+  "note": "3 clustered vessels with 17 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "24B",
+    "eta": "2025-03-29 21:56",
+    "etd": "2025-03-31 12:20",
+    "modules": "14-21",
+    "vessel_id": "72032-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-03-31 11:23",
+    "etd": "2025-04-16 17:40",
+    "modules": "7-12",
+    "vessel_id": "73195-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-03-31 17:52",
+    "etd": "2025-04-01 15:06",
+    "modules": "2-6",
+    "vessel_id": "72761-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-03-31 18:35",
+    "etd": "2025-04-02 06:09",
+    "modules": "14-21",
+    "vessel_id": "72106-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-02 02:54",
+    "etd": "2025-04-02 10:21",
+    "modules": "3-6",
+    "vessel_id": "72885-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-02 12:59",
+    "etd": "2025-04-04 01:14",
+    "modules": "14-21",
+    "vessel_id": "73281-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-03 21:49",
+    "etd": "2025-04-04 11:37",
+    "modules": "1-6",
+    "vessel_id": "72719-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-04 03:01",
+    "etd": "2025-04-04 22:55",
+    "modules": "14-21",
+    "vessel_id": "71345-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-05 01:12",
+    "etd": "2025-04-05 21:30",
+    "modules": "15-21",
+    "vessel_id": "72978-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-05 09:12",
+    "etd": "2025-04-06 00:34",
+    "modules": "2-7",
+    "vessel_id": "72720-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-06 01:51",
+    "etd": "2025-04-06 17:38",
+    "modules": "15-21",
+    "vessel_id": "72993-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-06 03:07",
+    "etd": "2025-04-06 20:47",
+    "modules": "2-6",
+    "vessel_id": "72973-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-06 21:53",
+    "etd": "2025-04-08 00:17",
+    "modules": "2-6",
+    "vessel_id": "72972-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-07 00:49",
+    "etd": "2025-04-08 08:30",
+    "modules": "15-22",
+    "vessel_id": "72082-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-08 20:47",
+    "etd": "2025-04-09 02:41",
+    "modules": "14-19",
+    "vessel_id": "72722-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-09 07:01",
+    "etd": "2025-04-09 21:22",
+    "modules": "2-6",
+    "vessel_id": "73243-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-09 09:04",
+    "etd": "2025-04-10 19:42",
+    "modules": "14-22",
+    "vessel_id": "73565-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-10 21:21",
+    "etd": "2025-04-11 19:54",
+    "modules": "3-7",
+    "vessel_id": "73108-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-12 01:42",
+    "etd": "2025-04-13 09:51",
+    "modules": "15-21",
+    "vessel_id": "72979-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-04-15 07:04",
+    "etd": "2025-04-15 23:48",
+    "modules": "2-6",
+    "vessel_id": "73392-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R13",
+  "ground_truth": {
+   "fcfs_total_delay_min": 1.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 1.0,
+   "reference_conflicts": [
+    [
+     "73581-1",
+     "74392-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 2 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "24B",
+    "eta": "2025-05-12 01:33",
+    "etd": "2025-05-13 02:20",
+    "modules": "14-21",
+    "vessel_id": "73763-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-05-13 08:31",
+    "etd": "2025-05-14 00:59",
+    "modules": "2-8",
+    "vessel_id": "73581-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-05-14 00:58",
+    "etd": "2025-05-14 11:49",
+    "modules": "3-8",
+    "vessel_id": "74392-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-05-14 13:16",
+    "etd": "2025-05-15 21:35",
+    "modules": "14-21",
+    "vessel_id": "74267-1"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R14",
+  "ground_truth": {
+   "fcfs_total_delay_min": 871.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 871.0,
+   "reference_conflicts": [
+    [
+     "73066-1",
+     "73074-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 4 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "29A",
+    "eta": "2025-03-13 03:01",
+    "etd": "2025-03-15 02:45",
+    "modules": "18-20",
+    "vessel_id": "72376-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-03-14 10:10",
+    "etd": "2025-03-14 22:52",
+    "modules": "11-16",
+    "vessel_id": "72509-3"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-03-15 00:31",
+    "etd": "2025-03-15 21:36",
+    "modules": "11-13",
+    "vessel_id": "73066-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-03-15 03:57",
+    "etd": "2025-03-15 15:29",
+    "modules": "18-21",
+    "vessel_id": "72937-2"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-03-15 07:05",
+    "etd": "2025-03-15 15:19",
+    "modules": "13-16",
+    "vessel_id": "73074-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-03-16 12:28",
+    "etd": "2025-03-17 22:51",
+    "modules": "4-8",
+    "vessel_id": "72330-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R15",
+  "ground_truth": {
+   "fcfs_total_delay_min": 84.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 84.0,
+   "reference_conflicts": [
+    [
+     "75340-2",
+     "75768-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 1 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "29A",
+    "eta": "2025-07-03 05:42",
+    "etd": "2025-07-05 03:07",
+    "modules": "18-21",
+    "vessel_id": "75121-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-07-04 10:48",
+    "etd": "2025-07-05 01:59",
+    "modules": "13-16",
+    "vessel_id": "75768-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-07-05 00:35",
+    "etd": "2025-07-05 09:41",
+    "modules": "13-16",
+    "vessel_id": "75340-2"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R16",
+  "ground_truth": {
+   "fcfs_total_delay_min": 4137.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 4137.0,
+   "reference_conflicts": [
+    [
+     "77842-1",
+     "78050-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 8 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "29A",
+    "eta": "2025-09-23 02:14",
+    "etd": "2025-09-26 14:34",
+    "modules": "2-5",
+    "vessel_id": "77841-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-09-24 05:55",
+    "etd": "2025-09-24 20:25",
+    "modules": "16-21",
+    "vessel_id": "77149-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-09-25 04:50",
+    "etd": "2025-10-02 21:30",
+    "modules": "6-9",
+    "vessel_id": "77842-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-09-25 06:18",
+    "etd": "2025-09-27 02:07",
+    "modules": "18-21",
+    "vessel_id": "76749-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-09-28 20:58",
+    "etd": "2025-09-29 20:12",
+    "modules": "3-4",
+    "vessel_id": "77889-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-09-29 00:38",
+    "etd": "2025-09-29 11:26",
+    "modules": "18-21",
+    "vessel_id": "78008-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-09-30 00:33",
+    "etd": "2025-10-01 20:43",
+    "modules": "4-6",
+    "vessel_id": "78050-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-10-01 16:52",
+    "etd": "2025-10-02 03:21",
+    "modules": "11-16",
+    "vessel_id": "76966-2"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-10-02 07:01",
+    "etd": "2025-10-03 21:45",
+    "modules": "18-21",
+    "vessel_id": "77788-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-10-02 14:45",
+    "etd": "2025-10-02 20:13",
+    "modules": "14-16",
+    "vessel_id": "78198-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R17",
+  "ground_truth": {
+   "fcfs_total_delay_min": 24.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 24.0,
+   "reference_conflicts": [
+    [
+     "74340-1",
+     "74368-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 1 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "32C",
+    "eta": "2025-05-05 13:41",
+    "etd": "2025-05-06 10:00",
+    "modules": "1",
+    "vessel_id": "74340-1"
+   },
+   {
+    "berth": "32C",
+    "eta": "2025-05-06 09:36",
+    "etd": "2025-05-07 15:00",
+    "modules": "1",
+    "vessel_id": "74368-1"
+   },
+   {
+    "berth": "32C",
+    "eta": "2025-05-07 17:54",
+    "etd": "2025-05-08 19:07",
+    "modules": "1",
+    "vessel_id": "74376-1"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R18",
+  "ground_truth": {
+   "fcfs_total_delay_min": 40.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 40.0,
+   "reference_conflicts": [
+    [
+     "79008-2",
+     "79137-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 1 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "32D",
+    "eta": "2025-11-14 05:39",
+    "etd": "2025-11-15 16:01",
+    "modules": "1",
+    "vessel_id": "78968-2"
+   },
+   {
+    "berth": "32D",
+    "eta": "2025-11-15 17:18",
+    "etd": "2025-11-16 13:40",
+    "modules": "1",
+    "vessel_id": "79137-1"
+   },
+   {
+    "berth": "32D",
+    "eta": "2025-11-16 13:00",
+    "etd": "2025-11-17 11:45",
+    "modules": "1",
+    "vessel_id": "79008-2"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R19",
+  "ground_truth": {
+   "fcfs_total_delay_min": 31.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 31.0,
+   "reference_conflicts": [
+    [
+     "79577-1",
+     "79599-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 1 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "32G",
+    "eta": "2025-11-24 22:26",
+    "etd": "2025-11-25 16:11",
+    "modules": "1",
+    "vessel_id": "79265-1"
+   },
+   {
+    "berth": "32G",
+    "eta": "2025-11-26 03:32",
+    "etd": "2025-11-28 04:01",
+    "modules": "1",
+    "vessel_id": "79577-1"
+   },
+   {
+    "berth": "32G",
+    "eta": "2025-11-28 03:30",
+    "etd": "2025-11-28 23:24",
+    "modules": "1",
+    "vessel_id": "79599-1"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R20",
+  "ground_truth": {
+   "fcfs_total_delay_min": 17393.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 7068.0,
+   "reference_conflicts": [
+    [
+     "80472-1",
+     "80561-1"
+    ],
+    [
+     "80522-1",
+     "80561-1"
+    ],
+    [
+     "80551-1",
+     "80561-1"
+    ]
+   ]
+  },
+  "note": "4 clustered vessels with 1 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "32G",
+    "eta": "2025-12-20 11:36",
+    "etd": "2025-12-21 19:08",
+    "modules": "1",
+    "vessel_id": "80356-2"
+   },
+   {
+    "berth": "32G",
+    "eta": "2025-12-21 21:06",
+    "etd": "2025-12-25 17:25",
+    "modules": "1",
+    "vessel_id": "80472-1"
+   },
+   {
+    "berth": "32G",
+    "eta": "2025-12-25 05:46",
+    "etd": "2025-12-31 03:30",
+    "modules": "1",
+    "vessel_id": "80561-1"
+   },
+   {
+    "berth": "32G",
+    "eta": "2025-12-25 18:55",
+    "etd": "2025-12-29 00:06",
+    "modules": "1",
+    "vessel_id": "80522-1"
+   },
+   {
+    "berth": "32G",
+    "eta": "2025-12-29 02:20",
+    "etd": "2025-12-30 03:34",
+    "modules": "1",
+    "vessel_id": "80551-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R21",
+  "ground_truth": {
+   "fcfs_total_delay_min": 2552.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 1834.0,
+   "reference_conflicts": [
+    [
+     "80461-1",
+     "80585-2"
+    ],
+    [
+     "80559-1",
+     "80585-2"
+    ]
+   ]
+  },
+  "note": "3 clustered vessels with 2 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "34B",
+    "eta": "2025-12-28 10:08",
+    "etd": "2025-12-30 05:44",
+    "modules": "1",
+    "vessel_id": "80462-1"
+   },
+   {
+    "berth": "34B",
+    "eta": "2025-12-30 07:51",
+    "etd": "2025-12-31 09:30",
+    "modules": "1",
+    "vessel_id": "80559-1"
+   },
+   {
+    "berth": "34B",
+    "eta": "2025-12-30 21:36",
+    "etd": "2025-12-31 20:00",
+    "modules": "1",
+    "vessel_id": "80585-2"
+   },
+   {
+    "berth": "34B",
+    "eta": "2025-12-31 12:58",
+    "etd": "2025-12-31 13:00",
+    "modules": "1",
+    "vessel_id": "80461-1"
+   },
+   {
+    "berth": "34B",
+    "eta": "2025-12-31 20:14",
+    "etd": "2026-01-02 21:00",
+    "modules": "1",
+    "vessel_id": "80621-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R22",
+  "ground_truth": {
+   "fcfs_total_delay_min": 10.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 10.0,
+   "reference_conflicts": [
+    [
+     "71442-1",
+     "71516-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 8 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-01-21 11:33",
+    "etd": "2025-01-24 15:05",
+    "modules": "4-11",
+    "vessel_id": "61143-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-01-21 13:51",
+    "etd": "2025-01-22 23:34",
+    "modules": "13-19",
+    "vessel_id": "71534-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-01-23 07:00",
+    "etd": "2025-01-23 17:04",
+    "modules": "27-29",
+    "vessel_id": "71442-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-01-23 16:54",
+    "etd": "2025-01-24 04:47",
+    "modules": "27-29",
+    "vessel_id": "71516-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-01-23 18:42",
+    "etd": "2025-01-24 23:39",
+    "modules": "13-20",
+    "vessel_id": "71283-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-01-23 22:55",
+    "etd": "2025-01-24 13:17",
+    "modules": "22-25",
+    "vessel_id": "71290-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-01-24 05:51",
+    "etd": "2025-01-25 00:42",
+    "modules": "27-29",
+    "vessel_id": "71442-3"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-01-24 14:12",
+    "etd": "2025-01-25 07:12",
+    "modules": "21-25",
+    "vessel_id": "71619-3"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-01-24 17:06",
+    "etd": "2025-01-28 20:20",
+    "modules": "4-11",
+    "vessel_id": "71285-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-01-25 02:13",
+    "etd": "2025-01-25 08:54",
+    "modules": "26-29",
+    "vessel_id": "71680-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R23",
+  "ground_truth": {
+   "fcfs_total_delay_min": 2.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 2.0,
+   "reference_conflicts": [
+    [
+     "72710-1",
+     "73224-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 12 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-03-25 02:15",
+    "etd": "2025-03-28 10:43",
+    "modules": "4-11",
+    "vessel_id": "72747-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-25 09:54",
+    "etd": "2025-03-26 08:56",
+    "modules": "17-20",
+    "vessel_id": "73134-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-25 11:53",
+    "etd": "2025-03-26 04:34",
+    "modules": "25-29",
+    "vessel_id": "73142-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-25 14:33",
+    "etd": "2025-03-26 10:58",
+    "modules": "13-16",
+    "vessel_id": "73271-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-26 08:22",
+    "etd": "2025-03-28 00:22",
+    "modules": "24-29",
+    "vessel_id": "72887-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-26 10:05",
+    "etd": "2025-03-26 20:43",
+    "modules": "17-20",
+    "vessel_id": "73224-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-26 11:59",
+    "etd": "2025-03-27 02:28",
+    "modules": "13-16",
+    "vessel_id": "73047-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-26 20:41",
+    "etd": "2025-03-27 15:04",
+    "modules": "20-23",
+    "vessel_id": "72710-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-27 04:41",
+    "etd": "2025-03-28 11:53",
+    "modules": "13-18",
+    "vessel_id": "71701-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-27 16:19",
+    "etd": "2025-03-28 08:48",
+    "modules": "20-23",
+    "vessel_id": "73255-2"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-28 01:32",
+    "etd": "2025-03-28 17:43",
+    "modules": "26-29",
+    "vessel_id": "73180-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-28 10:22",
+    "etd": "2025-03-29 22:06",
+    "modules": "21-25",
+    "vessel_id": "73184-2"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-28 13:16",
+    "etd": "2025-03-29 16:05",
+    "modules": "13-19",
+    "vessel_id": "72931-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-03-28 14:08",
+    "etd": "2025-03-29 20:10",
+    "modules": "4-11",
+    "vessel_id": "73254-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R24",
+  "ground_truth": {
+   "fcfs_total_delay_min": 42.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 42.0,
+   "reference_conflicts": [
+    [
+     "73892-1",
+     "73938-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 12 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-04-28 09:54",
+    "etd": "2025-04-29 16:22",
+    "modules": "21-24",
+    "vessel_id": "73740-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-04-28 11:59",
+    "etd": "2025-04-30 17:27",
+    "modules": "6-10",
+    "vessel_id": "73946-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-04-29 05:03",
+    "etd": "2025-04-30 14:08",
+    "modules": "13-19",
+    "vessel_id": "73874-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-04-29 12:40",
+    "etd": "2025-04-29 23:40",
+    "modules": "26-29",
+    "vessel_id": "73780-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-04-29 17:24",
+    "etd": "2025-04-30 02:50",
+    "modules": "21-24",
+    "vessel_id": "73702-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-04-30 01:19",
+    "etd": "2025-04-30 13:00",
+    "modules": "26-30",
+    "vessel_id": "73938-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-04-30 07:16",
+    "etd": "2025-04-30 17:26",
+    "modules": "2-5",
+    "vessel_id": "74143-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-04-30 12:18",
+    "etd": "2025-05-01 05:36",
+    "modules": "23-29",
+    "vessel_id": "73892-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-04-30 15:15",
+    "etd": "2025-05-01 04:36",
+    "modules": "13-19",
+    "vessel_id": "72796-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-04-30 18:23",
+    "etd": "2025-05-02 10:16",
+    "modules": "2-5",
+    "vessel_id": "72827-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-04-30 19:52",
+    "etd": "2025-05-02 16:13",
+    "modules": "6-10",
+    "vessel_id": "73771-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-01 13:43",
+    "etd": "2025-05-02 20:19",
+    "modules": "21-24",
+    "vessel_id": "74229-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-01 15:11",
+    "etd": "2025-05-04 03:03",
+    "modules": "12-19",
+    "vessel_id": "72766-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-01 21:38",
+    "etd": "2025-05-02 23:17",
+    "modules": "26-29",
+    "vessel_id": "74143-3"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R25",
+  "ground_truth": {
+   "fcfs_total_delay_min": 118.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 118.0,
+   "reference_conflicts": [
+    [
+     "74403-1",
+     "74474-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 18 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-05-12 07:08",
+    "etd": "2025-05-13 23:33",
+    "modules": "24-29",
+    "vessel_id": "74039-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-12 17:32",
+    "etd": "2025-05-14 07:48",
+    "modules": "12-19",
+    "vessel_id": "72047-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-13 09:39",
+    "etd": "2025-05-14 16:12",
+    "modules": "3-10",
+    "vessel_id": "74066-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-14 01:41",
+    "etd": "2025-05-15 07:37",
+    "modules": "23-30",
+    "vessel_id": "74116-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-14 09:19",
+    "etd": "2025-05-14 21:45",
+    "modules": "12-17",
+    "vessel_id": "73116-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-14 09:44",
+    "etd": "2025-05-15 11:03",
+    "modules": "18-22",
+    "vessel_id": "74403-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-14 17:27",
+    "etd": "2025-05-16 07:47",
+    "modules": "3-10",
+    "vessel_id": "74587-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-14 23:57",
+    "etd": "2025-05-15 13:09",
+    "modules": "12-17",
+    "vessel_id": "74246-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-15 09:12",
+    "etd": "2025-05-16 11:06",
+    "modules": "22-26",
+    "vessel_id": "74474-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-15 09:58",
+    "etd": "2025-05-15 20:35",
+    "modules": "27-30",
+    "vessel_id": "74458-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-15 14:23",
+    "etd": "2025-05-16 10:58",
+    "modules": "12-15",
+    "vessel_id": "73425-2"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-15 15:34",
+    "etd": "2025-05-16 06:50",
+    "modules": "16-19",
+    "vessel_id": "74155-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-15 22:55",
+    "etd": "2025-05-16 13:17",
+    "modules": "27-30",
+    "vessel_id": "74259-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-16 09:27",
+    "etd": "2025-05-17 07:57",
+    "modules": "3-10",
+    "vessel_id": "74215-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-16 12:50",
+    "etd": "2025-05-16 23:49",
+    "modules": "21-25",
+    "vessel_id": "74543-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-16 14:21",
+    "etd": "2025-05-16 21:24",
+    "modules": "26-30",
+    "vessel_id": "73012-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-16 15:09",
+    "etd": "2025-05-17 16:19",
+    "modules": "12-18",
+    "vessel_id": "73222-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-16 23:27",
+    "etd": "2025-05-17 07:29",
+    "modules": "27-30",
+    "vessel_id": "74458-3"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-17 02:05",
+    "etd": "2025-05-17 13:38",
+    "modules": "21-25",
+    "vessel_id": "74578-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-17 09:21",
+    "etd": "2025-05-17 15:27",
+    "modules": "26-29",
+    "vessel_id": "74219-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R26",
+  "ground_truth": {
+   "fcfs_total_delay_min": 27.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 27.0,
+   "reference_conflicts": [
+    [
+     "76057-2",
+     "76355-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 9 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-07-21 08:08",
+    "etd": "2025-07-23 07:59",
+    "modules": "3-10",
+    "vessel_id": "75901-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-21 22:53",
+    "etd": "2025-07-22 21:12",
+    "modules": "23-26",
+    "vessel_id": "75872-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-22 06:02",
+    "etd": "2025-07-22 23:33",
+    "modules": "17-22",
+    "vessel_id": "75328-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-22 08:42",
+    "etd": "2025-07-23 12:15",
+    "modules": "12-16",
+    "vessel_id": "76296-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-23 07:16",
+    "etd": "2025-07-23 18:27",
+    "modules": "27-30",
+    "vessel_id": "76355-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-23 11:21",
+    "etd": "2025-07-24 20:05",
+    "modules": "3-10",
+    "vessel_id": "75902-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-23 15:46",
+    "etd": "2025-07-25 09:48",
+    "modules": "12-19",
+    "vessel_id": "76186-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-23 18:00",
+    "etd": "2025-07-23 21:32",
+    "modules": "27-29",
+    "vessel_id": "76057-2"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-24 07:30",
+    "etd": "2025-07-24 12:33",
+    "modules": "26-29",
+    "vessel_id": "76217-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-24 14:06",
+    "etd": "2025-07-25 17:35",
+    "modules": "26-29",
+    "vessel_id": "76434-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-24 14:48",
+    "etd": "2025-07-25 05:33",
+    "modules": "22-25",
+    "vessel_id": "75918-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R27",
+  "ground_truth": {
+   "fcfs_total_delay_min": 2.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 2.0,
+   "reference_conflicts": [
+    [
+     "76522-1",
+     "76527-2"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 15 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-07-27 17:52",
+    "etd": "2025-07-30 20:19",
+    "modules": "3-10",
+    "vessel_id": "76049-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-28 09:50",
+    "etd": "2025-07-29 17:16",
+    "modules": "12-19",
+    "vessel_id": "75555-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-28 16:58",
+    "etd": "2025-07-29 12:20",
+    "modules": "20-26",
+    "vessel_id": "76048-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-29 14:16",
+    "etd": "2025-07-30 07:19",
+    "modules": "20-25",
+    "vessel_id": "75185-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-29 16:36",
+    "etd": "2025-07-29 23:52",
+    "modules": "27-30",
+    "vessel_id": "76344-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-29 21:48",
+    "etd": "2025-07-31 06:38",
+    "modules": "12-18",
+    "vessel_id": "76047-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-30 00:17",
+    "etd": "2025-07-30 10:24",
+    "modules": "27-30",
+    "vessel_id": "76527-2"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-30 08:45",
+    "etd": "2025-07-30 21:09",
+    "modules": "20-24",
+    "vessel_id": "76644-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-30 10:22",
+    "etd": "2025-07-31 01:27",
+    "modules": "26-29",
+    "vessel_id": "76522-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-30 22:58",
+    "etd": "2025-07-31 22:20",
+    "modules": "6-10",
+    "vessel_id": "76278-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-30 23:34",
+    "etd": "2025-07-31 10:22",
+    "modules": "20-24",
+    "vessel_id": "76206-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-31 00:44",
+    "etd": "2025-07-31 17:39",
+    "modules": "2-5",
+    "vessel_id": "76359-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-31 02:43",
+    "etd": "2025-07-31 11:58",
+    "modules": "26-29",
+    "vessel_id": "75557-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-31 09:00",
+    "etd": "2025-08-01 06:36",
+    "modules": "12-18",
+    "vessel_id": "76188-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-31 12:29",
+    "etd": "2025-08-01 03:36",
+    "modules": "26-29",
+    "vessel_id": "75332-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-07-31 13:23",
+    "etd": "2025-08-01 14:10",
+    "modules": "21-24",
+    "vessel_id": "76613-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-08-01 00:06",
+    "etd": "2025-08-02 11:37",
+    "modules": "5-10",
+    "vessel_id": "75330-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R28",
+  "ground_truth": {
+   "fcfs_total_delay_min": 29.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 29.0,
+   "reference_conflicts": [
+    [
+     "77367-1",
+     "77470-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 12 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-09-04 01:42",
+    "etd": "2025-09-05 16:23",
+    "modules": "3-10",
+    "vessel_id": "73590-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-04 04:10",
+    "etd": "2025-09-04 16:54",
+    "modules": "12-17",
+    "vessel_id": "77354-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-04 08:49",
+    "etd": "2025-09-04 20:33",
+    "modules": "26-29",
+    "vessel_id": "76750-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-04 10:55",
+    "etd": "2025-09-05 02:09",
+    "modules": "22-25",
+    "vessel_id": "77096-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-04 18:24",
+    "etd": "2025-09-05 13:00",
+    "modules": "12-17",
+    "vessel_id": "77217-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-04 21:50",
+    "etd": "2025-09-05 10:08",
+    "modules": "27-30",
+    "vessel_id": "77470-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-05 03:31",
+    "etd": "2025-09-06 00:13",
+    "modules": "20-25",
+    "vessel_id": "77115-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-05 09:39",
+    "etd": "2025-09-06 03:09",
+    "modules": "27-30",
+    "vessel_id": "77367-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-05 13:54",
+    "etd": "2025-09-06 00:50",
+    "modules": "16-19",
+    "vessel_id": "77047-3"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-05 14:45",
+    "etd": "2025-09-06 10:18",
+    "modules": "12-15",
+    "vessel_id": "77289-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-05 17:37",
+    "etd": "2025-09-06 17:51",
+    "modules": "3-10",
+    "vessel_id": "77257-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-06 02:12",
+    "etd": "2025-09-07 00:08",
+    "modules": "22-25",
+    "vessel_id": "77129-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-06 11:44",
+    "etd": "2025-09-07 05:08",
+    "modules": "26-29",
+    "vessel_id": "77505-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-09-06 15:46",
+    "etd": "2025-09-08 06:11",
+    "modules": "12-20",
+    "vessel_id": "75355-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R29",
+  "ground_truth": {
+   "fcfs_total_delay_min": 11.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 11.0,
+   "reference_conflicts": [
+    [
+     "78256-1",
+     "78316-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 14 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-10-06 02:03",
+    "etd": "2025-10-08 23:35",
+    "modules": "3-10",
+    "vessel_id": "77830-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-07 18:04",
+    "etd": "2025-10-08 14:10",
+    "modules": "12-19",
+    "vessel_id": "77863-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-08 01:27",
+    "etd": "2025-10-08 16:53",
+    "modules": "20-23",
+    "vessel_id": "78249-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-08 10:39",
+    "etd": "2025-10-09 08:46",
+    "modules": "24-30",
+    "vessel_id": "77681-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-08 16:01",
+    "etd": "2025-10-09 14:31",
+    "modules": "12-18",
+    "vessel_id": "77926-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-08 18:22",
+    "etd": "2025-10-09 03:27",
+    "modules": "20-23",
+    "vessel_id": "78256-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-09 02:01",
+    "etd": "2025-10-09 23:08",
+    "modules": "3-10",
+    "vessel_id": "77761-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-09 03:16",
+    "etd": "2025-10-10 05:54",
+    "modules": "20-23",
+    "vessel_id": "78316-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-09 09:56",
+    "etd": "2025-10-09 22:37",
+    "modules": "25-29",
+    "vessel_id": "77342-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-09 16:11",
+    "etd": "2025-10-10 07:51",
+    "modules": "12-18",
+    "vessel_id": "77051-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-10 00:56",
+    "etd": "2025-10-10 14:13",
+    "modules": "26-29",
+    "vessel_id": "77987-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-10 02:11",
+    "etd": "2025-10-11 12:48",
+    "modules": "4-10",
+    "vessel_id": "77203-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-10 10:43",
+    "etd": "2025-10-10 17:30",
+    "modules": "12-15",
+    "vessel_id": "77839-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-10 11:48",
+    "etd": "2025-10-11 00:59",
+    "modules": "22-25",
+    "vessel_id": "78252-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-10 15:33",
+    "etd": "2025-10-11 01:11",
+    "modules": "26-29",
+    "vessel_id": "78256-3"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-10 21:25",
+    "etd": "2025-10-11 17:45",
+    "modules": "12-17",
+    "vessel_id": "77496-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R30",
+  "ground_truth": {
+   "fcfs_total_delay_min": 2615.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 2615.0,
+   "reference_conflicts": [
+    [
+     "77843-1",
+     "78353-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 12 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-10-24 09:32",
+    "etd": "2025-10-25 00:45",
+    "modules": "26-29",
+    "vessel_id": "78586-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-24 17:14",
+    "etd": "2025-10-26 01:40",
+    "modules": "21-25",
+    "vessel_id": "78550-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-24 21:06",
+    "etd": "2025-10-25 08:06",
+    "modules": "4-10",
+    "vessel_id": "77785-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-25 00:32",
+    "etd": "2025-10-25 23:03",
+    "modules": "12-19",
+    "vessel_id": "78317-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-25 01:49",
+    "etd": "2025-10-25 15:22",
+    "modules": "26-29",
+    "vessel_id": "78595-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-25 11:06",
+    "etd": "2025-10-27 07:03",
+    "modules": "7-10",
+    "vessel_id": "77843-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-26 00:30",
+    "etd": "2025-10-26 14:03",
+    "modules": "12-19",
+    "vessel_id": "78318-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-26 04:54",
+    "etd": "2025-10-26 20:12",
+    "modules": "20-26",
+    "vessel_id": "78406-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-26 08:31",
+    "etd": "2025-10-27 09:15",
+    "modules": "3-10",
+    "vessel_id": "78353-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-26 12:17",
+    "etd": "2025-10-27 02:20",
+    "modules": "27-30",
+    "vessel_id": "77982-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-27 01:01",
+    "etd": "2025-10-27 13:19",
+    "modules": "20-26",
+    "vessel_id": "78352-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-27 08:23",
+    "etd": "2025-10-28 19:08",
+    "modules": "12-19",
+    "vessel_id": "76668-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-27 10:44",
+    "etd": "2025-10-29 19:20",
+    "modules": "3-10",
+    "vessel_id": "78424-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-10-27 14:57",
+    "etd": "2025-10-28 08:53",
+    "modules": "21-25",
+    "vessel_id": "78651-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R31",
+  "ground_truth": {
+   "fcfs_total_delay_min": 212.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 212.0,
+   "reference_conflicts": [
+    [
+     "78774-1",
+     "78805-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 18 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-11-13 03:25",
+    "etd": "2025-11-15 00:01",
+    "modules": "12-19",
+    "vessel_id": "78321-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-14 05:12",
+    "etd": "2025-11-15 02:30",
+    "modules": "4-10",
+    "vessel_id": "78980-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-14 15:43",
+    "etd": "2025-11-15 00:54",
+    "modules": "26-29",
+    "vessel_id": "79043-3"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-14 19:34",
+    "etd": "2025-11-18 16:45",
+    "modules": "21-24",
+    "vessel_id": "78774-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-15 01:52",
+    "etd": "2025-11-16 12:11",
+    "modules": "26-29",
+    "vessel_id": "78936-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-15 20:40",
+    "etd": "2025-11-18 00:03",
+    "modules": "3-10",
+    "vessel_id": "78994-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-16 00:18",
+    "etd": "2025-11-16 16:16",
+    "modules": "12-19",
+    "vessel_id": "78982-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-16 13:19",
+    "etd": "2025-11-16 16:45",
+    "modules": "26-29",
+    "vessel_id": "78298-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-16 17:36",
+    "etd": "2025-11-17 12:50",
+    "modules": "17-20",
+    "vessel_id": "79130-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-16 18:02",
+    "etd": "2025-11-17 05:08",
+    "modules": "12-15",
+    "vessel_id": "78986-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-16 19:35",
+    "etd": "2025-11-17 07:21",
+    "modules": "26-29",
+    "vessel_id": "78804-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-17 06:44",
+    "etd": "2025-11-17 18:54",
+    "modules": "12-16",
+    "vessel_id": "78975-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-17 08:59",
+    "etd": "2025-11-18 11:51",
+    "modules": "25-29",
+    "vessel_id": "79091-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-17 20:42",
+    "etd": "2025-11-18 09:13",
+    "modules": "12-18",
+    "vessel_id": "78984-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-18 01:59",
+    "etd": "2025-11-20 00:25",
+    "modules": "3-10",
+    "vessel_id": "77692-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-18 10:55",
+    "etd": "2025-11-18 22:59",
+    "modules": "12-18",
+    "vessel_id": "78509-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-18 13:13",
+    "etd": "2025-11-19 08:39",
+    "modules": "24-30",
+    "vessel_id": "78805-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-18 17:10",
+    "etd": "2025-11-19 03:30",
+    "modules": "20-23",
+    "vessel_id": "78600-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-19 05:55",
+    "etd": "2025-11-19 21:13",
+    "modules": "12-15",
+    "vessel_id": "78539-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-19 06:48",
+    "etd": "2025-11-19 20:14",
+    "modules": "16-19",
+    "vessel_id": "79262-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R32",
+  "ground_truth": {
+   "fcfs_total_delay_min": 24.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 24.0,
+   "reference_conflicts": [
+    [
+     "78976-1",
+     "79049-2"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 13 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-11-22 01:20",
+    "etd": "2025-11-24 14:31",
+    "modules": "3-10",
+    "vessel_id": "78997-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-23 02:33",
+    "etd": "2025-11-23 16:36",
+    "modules": "26-30",
+    "vessel_id": "78806-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-23 12:18",
+    "etd": "2025-11-24 00:31",
+    "modules": "12-19",
+    "vessel_id": "79021-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-23 14:36",
+    "etd": "2025-11-23 21:59",
+    "modules": "21-25",
+    "vessel_id": "79015-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-23 18:12",
+    "etd": "2025-11-24 02:56",
+    "modules": "26-30",
+    "vessel_id": "79218-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-23 23:17",
+    "etd": "2025-11-25 11:23",
+    "modules": "21-24",
+    "vessel_id": "79090-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-24 02:05",
+    "etd": "2025-11-24 11:36",
+    "modules": "12-19",
+    "vessel_id": "79005-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-24 03:51",
+    "etd": "2025-11-24 17:47",
+    "modules": "26-29",
+    "vessel_id": "78976-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-24 13:22",
+    "etd": "2025-11-25 03:23",
+    "modules": "12-19",
+    "vessel_id": "79000-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-24 16:02",
+    "etd": "2025-11-25 05:47",
+    "modules": "5-10",
+    "vessel_id": "78771-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-24 17:23",
+    "etd": "2025-11-24 20:40",
+    "modules": "26-29",
+    "vessel_id": "79049-2"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-24 22:02",
+    "etd": "2025-11-25 21:24",
+    "modules": "26-29",
+    "vessel_id": "79444-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-25 05:50",
+    "etd": "2025-11-25 23:39",
+    "modules": "12-18",
+    "vessel_id": "78996-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-25 07:22",
+    "etd": "2025-11-26 22:45",
+    "modules": "3-10",
+    "vessel_id": "79006-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-25 18:13",
+    "etd": "2025-11-26 06:40",
+    "modules": "21-24",
+    "vessel_id": "79340-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R33",
+  "ground_truth": {
+   "fcfs_total_delay_min": 5.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 5.0,
+   "reference_conflicts": [
+    [
+     "78490-1",
+     "79024-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 12 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-11-23 23:17",
+    "etd": "2025-11-25 11:23",
+    "modules": "21-24",
+    "vessel_id": "79090-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-24 22:02",
+    "etd": "2025-11-25 21:24",
+    "modules": "26-29",
+    "vessel_id": "79444-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-25 05:50",
+    "etd": "2025-11-25 23:39",
+    "modules": "12-18",
+    "vessel_id": "78996-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-25 07:22",
+    "etd": "2025-11-26 22:45",
+    "modules": "3-10",
+    "vessel_id": "79006-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-25 18:13",
+    "etd": "2025-11-26 06:40",
+    "modules": "21-24",
+    "vessel_id": "79340-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-25 22:38",
+    "etd": "2025-11-26 09:06",
+    "modules": "25-29",
+    "vessel_id": "79024-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-26 01:43",
+    "etd": "2025-11-27 12:50",
+    "modules": "12-19",
+    "vessel_id": "77691-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-26 07:42",
+    "etd": "2025-11-26 18:13",
+    "modules": "21-24",
+    "vessel_id": "79553-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-26 09:01",
+    "etd": "2025-11-26 16:28",
+    "modules": "26-29",
+    "vessel_id": "78490-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-26 19:37",
+    "etd": "2025-11-27 06:23",
+    "modules": "20-22",
+    "vessel_id": "79581-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-27 00:16",
+    "etd": "2025-11-27 22:26",
+    "modules": "24-30",
+    "vessel_id": "79051-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-27 07:33",
+    "etd": "2025-11-27 16:59",
+    "modules": "20-23",
+    "vessel_id": "79030-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-27 08:57",
+    "etd": "2025-11-28 20:25",
+    "modules": "4-10",
+    "vessel_id": "78828-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-11-27 16:00",
+    "etd": "2025-11-28 13:50",
+    "modules": "12-19",
+    "vessel_id": "79001-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R34",
+  "ground_truth": {
+   "fcfs_total_delay_min": 75.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 75.0,
+   "reference_conflicts": [
+    [
+     "80125-1",
+     "80198-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 15 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-12-19 09:44",
+    "etd": "2025-12-20 19:48",
+    "modules": "12-19",
+    "vessel_id": "78603-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-20 04:26",
+    "etd": "2025-12-21 02:42",
+    "modules": "5-10",
+    "vessel_id": "80451-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-20 07:44",
+    "etd": "2025-12-21 01:35",
+    "modules": "20-24",
+    "vessel_id": "80095-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-20 14:36",
+    "etd": "2025-12-20 22:24",
+    "modules": "26-29",
+    "vessel_id": "80401-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-21 01:03",
+    "etd": "2025-12-21 23:26",
+    "modules": "26-29",
+    "vessel_id": "80366-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-21 03:56",
+    "etd": "2025-12-22 04:12",
+    "modules": "4-10",
+    "vessel_id": "79833-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-21 06:00",
+    "etd": "2025-12-21 22:10",
+    "modules": "20-24",
+    "vessel_id": "80198-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-21 16:35",
+    "etd": "2025-12-22 12:13",
+    "modules": "12-18",
+    "vessel_id": "79835-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-21 20:55",
+    "etd": "2025-12-22 17:35",
+    "modules": "21-24",
+    "vessel_id": "80125-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-22 00:40",
+    "etd": "2025-12-22 09:14",
+    "modules": "25-29",
+    "vessel_id": "79678-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-22 06:47",
+    "etd": "2025-12-24 04:27",
+    "modules": "3-10",
+    "vessel_id": "79834-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-22 17:03",
+    "etd": "2025-12-23 03:01",
+    "modules": "26-29",
+    "vessel_id": "79660-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-22 20:00",
+    "etd": "2025-12-23 06:36",
+    "modules": "22-24",
+    "vessel_id": "80511-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-23 01:37",
+    "etd": "2025-12-23 20:00",
+    "modules": "12-18",
+    "vessel_id": "79410-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-23 07:28",
+    "etd": "2025-12-24 06:46",
+    "modules": "26-29",
+    "vessel_id": "80333-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-23 07:47",
+    "etd": "2025-12-23 15:01",
+    "modules": "21-24",
+    "vessel_id": "79641-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-23 16:06",
+    "etd": "2025-12-24 01:11",
+    "modules": "21-24",
+    "vessel_id": "79640-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R35",
+  "ground_truth": {
+   "fcfs_total_delay_min": 3846.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 3846.0,
+   "reference_conflicts": [
+    [
+     "78791-1",
+     "79914-2"
+    ],
+    [
+     "79622-1",
+     "80138-1"
+    ],
+    [
+     "79622-1",
+     "80416-1"
+    ],
+    [
+     "79622-1",
+     "80471-1"
+    ],
+    [
+     "79914-2",
+     "79931-1"
+    ]
+   ]
+  },
+  "note": "3 clustered vessels with 9 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-12-24 13:29",
+    "etd": "2025-12-28 05:20",
+    "modules": "12-19",
+    "vessel_id": "79961-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 08:52",
+    "etd": "2025-12-28 18:14",
+    "modules": "20-23",
+    "vessel_id": "79931-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 10:14",
+    "etd": "2025-12-29 07:57",
+    "modules": "24-30",
+    "vessel_id": "80119-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 12:16",
+    "etd": "2025-12-30 04:28",
+    "modules": "3-10",
+    "vessel_id": "80285-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 14:00",
+    "etd": "2025-12-29 05:00",
+    "modules": "20-22",
+    "vessel_id": "79914-2"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 14:17",
+    "etd": "2025-12-29 00:47",
+    "modules": "12-15",
+    "vessel_id": "80526-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 19:53",
+    "etd": "2025-12-29 04:24",
+    "modules": "20-23",
+    "vessel_id": "78791-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-29 03:36",
+    "etd": "2025-12-30 23:19",
+    "modules": "12-19",
+    "vessel_id": "80140-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-29 05:20",
+    "etd": "2025-12-30 11:26",
+    "modules": "20-23",
+    "vessel_id": "80471-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-29 09:27",
+    "etd": "2025-12-29 21:53",
+    "modules": "25-29",
+    "vessel_id": "80416-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-29 13:45",
+    "etd": "2025-12-30 09:00",
+    "modules": "23-26",
+    "vessel_id": "79622-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-30 00:49",
+    "etd": "2025-12-30 13:28",
+    "modules": "24-30",
+    "vessel_id": "80138-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R36",
+  "ground_truth": {
+   "fcfs_total_delay_min": 4572.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 4252.0,
+   "reference_conflicts": [
+    [
+     "78791-1",
+     "79914-2"
+    ],
+    [
+     "79622-1",
+     "80138-1"
+    ],
+    [
+     "79622-1",
+     "80416-1"
+    ],
+    [
+     "79622-1",
+     "80471-1"
+    ],
+    [
+     "79914-2",
+     "79931-1"
+    ]
+   ]
+  },
+  "note": "4 clustered vessels with 11 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 08:52",
+    "etd": "2025-12-28 18:14",
+    "modules": "20-23",
+    "vessel_id": "79931-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 10:14",
+    "etd": "2025-12-29 07:57",
+    "modules": "24-30",
+    "vessel_id": "80119-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 12:16",
+    "etd": "2025-12-30 04:28",
+    "modules": "3-10",
+    "vessel_id": "80285-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 14:00",
+    "etd": "2025-12-29 05:00",
+    "modules": "20-22",
+    "vessel_id": "79914-2"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 14:17",
+    "etd": "2025-12-29 00:47",
+    "modules": "12-15",
+    "vessel_id": "80526-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-28 19:53",
+    "etd": "2025-12-29 04:24",
+    "modules": "20-23",
+    "vessel_id": "78791-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-29 03:36",
+    "etd": "2025-12-30 23:19",
+    "modules": "12-19",
+    "vessel_id": "80140-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-29 05:20",
+    "etd": "2025-12-30 11:26",
+    "modules": "20-23",
+    "vessel_id": "80471-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-29 09:27",
+    "etd": "2025-12-29 21:53",
+    "modules": "25-29",
+    "vessel_id": "80416-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-29 13:45",
+    "etd": "2025-12-30 09:00",
+    "modules": "23-26",
+    "vessel_id": "79622-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-30 00:49",
+    "etd": "2025-12-30 13:28",
+    "modules": "24-30",
+    "vessel_id": "80138-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-30 07:43",
+    "etd": "2025-12-31 20:20",
+    "modules": "3-10",
+    "vessel_id": "80105-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-30 14:43",
+    "etd": "2025-12-31 04:41",
+    "modules": "27-30",
+    "vessel_id": "80574-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-31 02:19",
+    "etd": "2025-12-31 12:33",
+    "modules": "12-19",
+    "vessel_id": "79668-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-31 07:00",
+    "etd": "2026-01-02 20:00",
+    "modules": "22-29",
+    "vessel_id": "80136-1"
+   }
+  ],
+  "tier": "hard"
+ },
+ {
+  "case_id": "R37",
+  "ground_truth": {
+   "fcfs_total_delay_min": 240.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 240.0,
+   "reference_conflicts": [
+    [
+     "78145-1",
+     "79411-1"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 4 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-12-30 07:43",
+    "etd": "2025-12-31 20:20",
+    "modules": "3-10",
+    "vessel_id": "80105-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-30 14:43",
+    "etd": "2025-12-31 04:41",
+    "modules": "27-30",
+    "vessel_id": "80574-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-31 02:19",
+    "etd": "2025-12-31 12:33",
+    "modules": "12-19",
+    "vessel_id": "79668-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-31 07:00",
+    "etd": "2026-01-02 20:00",
+    "modules": "22-29",
+    "vessel_id": "80136-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-31 13:53",
+    "etd": "2025-12-31 22:00",
+    "modules": "12-18",
+    "vessel_id": "79411-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-12-31 18:00",
+    "etd": "2026-01-03 20:00",
+    "modules": "12-19",
+    "vessel_id": "78145-1"
+   }
+  ],
+  "tier": "medium"
+ },
+ {
+  "case_id": "R38",
+  "ground_truth": {
+   "fcfs_total_delay_min": 611.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 611.0,
+   "reference_conflicts": [
+    [
+     "75507-2",
+     "75511-2"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 0 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "90A",
+    "eta": "2025-06-17 07:31",
+    "etd": "2025-06-17 20:54",
+    "modules": "1",
+    "vessel_id": "75511-2"
+   },
+   {
+    "berth": "90A",
+    "eta": "2025-06-17 10:43",
+    "etd": "2025-06-19 10:40",
+    "modules": "1",
+    "vessel_id": "75507-2"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R39",
+  "ground_truth": {
+   "fcfs_total_delay_min": 2568.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 2568.0,
+   "reference_conflicts": [
+    [
+     "77246-4",
+     "77256-3"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 0 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "90A",
+    "eta": "2025-08-23 09:20",
+    "etd": "2025-08-25 09:46",
+    "modules": "1",
+    "vessel_id": "77256-3"
+   },
+   {
+    "berth": "90A",
+    "eta": "2025-08-23 14:58",
+    "etd": "2025-09-01 15:27",
+    "modules": "1",
+    "vessel_id": "77246-4"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "R40",
+  "ground_truth": {
+   "fcfs_total_delay_min": 8422.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 8422.0,
+   "reference_conflicts": [
+    [
+     "78641-4",
+     "78720-3"
+    ]
+   ]
+  },
+  "note": "2 clustered vessels with 0 at-quay neighbours",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "90A",
+    "eta": "2025-10-26 22:48",
+    "etd": "2025-11-06 17:05",
+    "modules": "1",
+    "vessel_id": "78720-3"
+   },
+   {
+    "berth": "90A",
+    "eta": "2025-10-31 20:43",
+    "etd": "2025-11-02 04:42",
+    "modules": "1",
+    "vessel_id": "78641-4"
+   }
+  ],
+  "tier": "easy"
+ },
+ {
+  "case_id": "N01",
+  "ground_truth": {
+   "fcfs_total_delay_min": 0.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 0.0,
+   "reference_conflicts": []
+  },
+  "note": "concurrent stays on different modules, no conflict",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "01D",
+    "eta": "2025-06-01 05:56",
+    "etd": "2025-06-01 18:22",
+    "modules": "17-22",
+    "vessel_id": "72133-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-01 07:24",
+    "etd": "2025-06-01 18:18",
+    "modules": "2-8",
+    "vessel_id": "60925-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-02 19:17",
+    "etd": "2025-06-02 22:36",
+    "modules": "1-4",
+    "vessel_id": "74930-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-03 04:22",
+    "etd": "2025-06-03 17:24",
+    "modules": "31-37",
+    "vessel_id": "73371-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-03 07:28",
+    "etd": "2025-06-03 19:50",
+    "modules": "10-16",
+    "vessel_id": "60817-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-03 07:44",
+    "etd": "2025-06-04 18:54",
+    "modules": "25-29",
+    "vessel_id": "60042-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-03 08:21",
+    "etd": "2025-06-03 19:35",
+    "modules": "2-8",
+    "vessel_id": "60804-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-04 04:45",
+    "etd": "2025-06-04 17:46",
+    "modules": "31-36",
+    "vessel_id": "73372-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-04 06:19",
+    "etd": "2025-06-04 17:26",
+    "modules": "12-16",
+    "vessel_id": "71387-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-04 19:45",
+    "etd": "2025-06-04 22:41",
+    "modules": "1-4",
+    "vessel_id": "74932-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-05 19:20",
+    "etd": "2025-06-05 22:56",
+    "modules": "1-4",
+    "vessel_id": "74934-1"
+   },
+   {
+    "berth": "01D",
+    "eta": "2025-06-06 05:16",
+    "etd": "2025-06-06 18:33",
+    "modules": "2-8",
+    "vessel_id": "60888-1"
+   }
+  ],
+  "tier": "negative"
+ },
+ {
+  "case_id": "N02",
+  "ground_truth": {
+   "fcfs_total_delay_min": 0.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 0.0,
+   "reference_conflicts": []
+  },
+  "note": "concurrent stays on different modules, no conflict",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "01C",
+    "eta": "2025-03-01 07:34",
+    "etd": "2025-03-01 17:51",
+    "modules": "6-13",
+    "vessel_id": "71566-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-01 13:22",
+    "etd": "2025-03-01 15:30",
+    "modules": "21-23",
+    "vessel_id": "72412-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-01 20:01",
+    "etd": "2025-03-02 22:13",
+    "modules": "13-16",
+    "vessel_id": "72442-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-02 13:36",
+    "etd": "2025-03-02 15:29",
+    "modules": "21-23",
+    "vessel_id": "72413-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-03 13:14",
+    "etd": "2025-03-03 15:31",
+    "modules": "21-23",
+    "vessel_id": "72414-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-03 18:59",
+    "etd": "2025-03-03 22:15",
+    "modules": "13-16",
+    "vessel_id": "72419-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-03 19:27",
+    "etd": "2025-03-03 22:42",
+    "modules": "19-23",
+    "vessel_id": "72443-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-04 19:16",
+    "etd": "2025-03-04 22:09",
+    "modules": "13-16",
+    "vessel_id": "72438-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-05 19:07",
+    "etd": "2025-03-05 22:12",
+    "modules": "20-23",
+    "vessel_id": "72623-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-05 19:22",
+    "etd": "2025-03-05 22:25",
+    "modules": "13-16",
+    "vessel_id": "72613-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-06 13:36",
+    "etd": "2025-03-06 15:43",
+    "modules": "21-23",
+    "vessel_id": "72608-1"
+   },
+   {
+    "berth": "01C",
+    "eta": "2025-03-06 19:09",
+    "etd": "2025-03-06 21:56",
+    "modules": "20-23",
+    "vessel_id": "72624-1"
+   }
+  ],
+  "tier": "negative"
+ },
+ {
+  "case_id": "N03",
+  "ground_truth": {
+   "fcfs_total_delay_min": 0.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 0.0,
+   "reference_conflicts": []
+  },
+  "note": "concurrent stays on different modules, no conflict",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "36A",
+    "eta": "2025-05-15 15:34",
+    "etd": "2025-05-16 06:50",
+    "modules": "16-19",
+    "vessel_id": "74155-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-15 22:55",
+    "etd": "2025-05-16 13:17",
+    "modules": "27-30",
+    "vessel_id": "74259-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-16 09:27",
+    "etd": "2025-05-17 07:57",
+    "modules": "3-10",
+    "vessel_id": "74215-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-16 12:50",
+    "etd": "2025-05-16 23:49",
+    "modules": "21-25",
+    "vessel_id": "74543-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-16 14:21",
+    "etd": "2025-05-16 21:24",
+    "modules": "26-30",
+    "vessel_id": "73012-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-16 15:09",
+    "etd": "2025-05-17 16:19",
+    "modules": "12-18",
+    "vessel_id": "73222-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-16 23:27",
+    "etd": "2025-05-17 07:29",
+    "modules": "27-30",
+    "vessel_id": "74458-3"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-17 02:05",
+    "etd": "2025-05-17 13:38",
+    "modules": "21-25",
+    "vessel_id": "74578-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-17 09:21",
+    "etd": "2025-05-17 15:27",
+    "modules": "26-29",
+    "vessel_id": "74219-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-17 09:34",
+    "etd": "2025-05-18 09:39",
+    "modules": "6-10",
+    "vessel_id": "74467-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-17 10:04",
+    "etd": "2025-05-17 23:39",
+    "modules": "3-5",
+    "vessel_id": "74233-1"
+   },
+   {
+    "berth": "36A",
+    "eta": "2025-05-17 15:00",
+    "etd": "2025-05-18 04:37",
+    "modules": "21-25",
+    "vessel_id": "74503-1"
+   }
+  ],
+  "tier": "negative"
+ },
+ {
+  "case_id": "N04",
+  "ground_truth": {
+   "fcfs_total_delay_min": 0.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 0.0,
+   "reference_conflicts": []
+  },
+  "note": "concurrent stays on different modules, no conflict",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "26A",
+    "eta": "2025-06-24 02:10",
+    "etd": "2025-06-25 09:00",
+    "modules": "4-6",
+    "vessel_id": "75733-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-06-25 14:25",
+    "etd": "2025-07-23 19:19",
+    "modules": "13-16",
+    "vessel_id": "75641-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-06-26 06:34",
+    "etd": "2025-06-26 21:04",
+    "modules": "19-20",
+    "vessel_id": "75741-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-06-27 08:29",
+    "etd": "2025-06-28 23:42",
+    "modules": "19-20",
+    "vessel_id": "75770-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-06-27 16:47",
+    "etd": "2025-06-27 23:57",
+    "modules": "4-6",
+    "vessel_id": "75564-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-06-29 14:21",
+    "etd": "2025-07-01 12:54",
+    "modules": "18-20",
+    "vessel_id": "75829-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-07-01 21:49",
+    "etd": "2025-07-02 14:51",
+    "modules": "4-6",
+    "vessel_id": "75818-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-07-02 20:50",
+    "etd": "2025-07-04 23:03",
+    "modules": "18-20",
+    "vessel_id": "75879-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-07-04 21:14",
+    "etd": "2025-07-17 01:26",
+    "modules": "8-12",
+    "vessel_id": "75820-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-07-12 11:59",
+    "etd": "2025-07-15 15:21",
+    "modules": "18-20",
+    "vessel_id": "76227-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-07-17 20:37",
+    "etd": "2025-07-19 10:58",
+    "modules": "3-7",
+    "vessel_id": "76239-1"
+   },
+   {
+    "berth": "26A",
+    "eta": "2025-07-23 20:47",
+    "etd": "2025-07-26 23:04",
+    "modules": "13-17",
+    "vessel_id": "76353-1"
+   }
+  ],
+  "tier": "negative"
+ },
+ {
+  "case_id": "N05",
+  "ground_truth": {
+   "fcfs_total_delay_min": 0.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 0.0,
+   "reference_conflicts": []
+  },
+  "note": "concurrent stays on different modules, no conflict",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "24B",
+    "eta": "2025-01-16 02:00",
+    "etd": "2025-01-18 01:16",
+    "modules": "14-20",
+    "vessel_id": "60730-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-18 00:50",
+    "etd": "2025-01-18 11:40",
+    "modules": "2-6",
+    "vessel_id": "61112-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-18 02:26",
+    "etd": "2025-01-18 13:15",
+    "modules": "15-20",
+    "vessel_id": "60893-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-18 07:19",
+    "etd": "2025-01-18 20:35",
+    "modules": "9-12",
+    "vessel_id": "61111-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-18 19:40",
+    "etd": "2025-01-19 19:55",
+    "modules": "2-5",
+    "vessel_id": "60716-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-19 11:00",
+    "etd": "2025-01-19 21:19",
+    "modules": "8-12",
+    "vessel_id": "71268-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-19 12:54",
+    "etd": "2025-01-21 06:52",
+    "modules": "13-20",
+    "vessel_id": "60398-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-20 13:57",
+    "etd": "2025-01-21 09:53",
+    "modules": "2-8",
+    "vessel_id": "60821-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-21 14:54",
+    "etd": "2025-01-22 11:18",
+    "modules": "12-19",
+    "vessel_id": "60462-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-21 18:11",
+    "etd": "2025-01-23 22:58",
+    "modules": "2-8",
+    "vessel_id": "60403-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-22 12:32",
+    "etd": "2025-01-23 05:26",
+    "modules": "13-17",
+    "vessel_id": "60576-1"
+   },
+   {
+    "berth": "24B",
+    "eta": "2025-01-23 12:13",
+    "etd": "2025-01-24 02:13",
+    "modules": "13-18",
+    "vessel_id": "60765-1"
+   }
+  ],
+  "tier": "negative"
+ },
+ {
+  "case_id": "N06",
+  "ground_truth": {
+   "fcfs_total_delay_min": 0.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 0.0,
+   "reference_conflicts": []
+  },
+  "note": "concurrent stays on different modules, no conflict",
+  "provenance": "real",
+  "rows": [
+   {
+    "berth": "29A",
+    "eta": "2025-10-30 06:04",
+    "etd": "2025-10-31 20:54",
+    "modules": "18-21",
+    "vessel_id": "78306-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-10-31 08:03",
+    "etd": "2025-11-01 00:28",
+    "modules": "13-16",
+    "vessel_id": "78613-2"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-11-01 07:13",
+    "etd": "2025-11-01 14:17",
+    "modules": "18-21",
+    "vessel_id": "78674-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-11-02 23:21",
+    "etd": "2025-11-03 17:06",
+    "modules": "18-21",
+    "vessel_id": "78848-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-11-05 04:41",
+    "etd": "2025-11-05 18:40",
+    "modules": "4-7",
+    "vessel_id": "78978-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-11-05 08:03",
+    "etd": "2025-11-05 23:37",
+    "modules": "8-11",
+    "vessel_id": "78987-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-11-06 05:37",
+    "etd": "2025-11-08 00:52",
+    "modules": "18-21",
+    "vessel_id": "78460-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-11-09 23:27",
+    "etd": "2025-11-10 12:27",
+    "modules": "18-21",
+    "vessel_id": "78969-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-11-11 09:48",
+    "etd": "2025-11-11 22:51",
+    "modules": "18-22",
+    "vessel_id": "78701-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-11-12 00:55",
+    "etd": "2025-11-13 08:54",
+    "modules": "12-16",
+    "vessel_id": "78219-2"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-11-12 03:00",
+    "etd": "2025-11-13 14:58",
+    "modules": "3-6",
+    "vessel_id": "78479-1"
+   },
+   {
+    "berth": "29A",
+    "eta": "2025-11-13 05:41",
+    "etd": "2025-11-15 00:26",
+    "modules": "18-21",
+    "vessel_id": "78639-1"
+   }
+  ],
+  "tier": "negative"
+ },
+ {
+  "case_id": "T01",
+  "ground_truth": {
+   "fcfs_total_delay_min": 0.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 0.0,
+   "reference_conflicts": []
+  },
+  "note": "ETD of one equals ETA of the next",
+  "provenance": "real-derived",
+  "rows": [
+   {
+    "berth": "32C",
+    "eta": "2025-01-15 16:15",
+    "etd": "2025-01-16 12:20",
+    "modules": "1",
+    "vessel_id": "71519-1"
+   },
+   {
+    "berth": "32C",
+    "eta": "2025-01-16 12:20",
+    "etd": "2025-01-18 05:38",
+    "modules": "1",
+    "vessel_id": "71486-1"
+   }
+  ],
+  "tier": "negative"
+ },
+ {
+  "case_id": "T02",
+  "ground_truth": {
+   "fcfs_total_delay_min": 0.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 0.0,
+   "reference_conflicts": []
+  },
+  "note": "ETD of one equals ETA of the next",
+  "provenance": "real-derived",
+  "rows": [
+   {
+    "berth": "90A",
+    "eta": "2025-04-03 01:49",
+    "etd": "2025-04-05 07:34",
+    "modules": "1",
+    "vessel_id": "73430-4"
+   },
+   {
+    "berth": "90A",
+    "eta": "2025-04-05 07:34",
+    "etd": "2025-04-12 15:59",
+    "modules": "1",
+    "vessel_id": "73723-2"
+   }
+  ],
+  "tier": "negative"
+ },
+ {
+  "case_id": "S01",
+  "ground_truth": {
+   "fcfs_total_delay_min": 6731.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 6287.0,
+   "reference_conflicts": [
+    [
+     "S1-00",
+     "S1-01"
+    ],
+    [
+     "S1-00",
+     "S1-02"
+    ],
+    [
+     "S1-00",
+     "S1-03"
+    ],
+    [
+     "S1-00",
+     "S1-04"
+    ],
+    [
+     "S1-00",
+     "S1-05"
+    ],
+    [
+     "S1-00",
+     "S1-06"
+    ],
+    [
+     "S1-00",
+     "S1-07"
+    ],
+    [
+     "S1-01",
+     "S1-02"
+    ],
+    [
+     "S1-01",
+     "S1-03"
+    ],
+    [
+     "S1-01",
+     "S1-04"
+    ],
+    [
+     "S1-01",
+     "S1-05"
+    ],
+    [
+     "S1-01",
+     "S1-06"
+    ],
+    [
+     "S1-01",
+     "S1-07"
+    ],
+    [
+     "S1-02",
+     "S1-03"
+    ],
+    [
+     "S1-02",
+     "S1-04"
+    ],
+    [
+     "S1-02",
+     "S1-05"
+    ],
+    [
+     "S1-02",
+     "S1-06"
+    ],
+    [
+     "S1-02",
+     "S1-07"
+    ],
+    [
+     "S1-03",
+     "S1-04"
+    ],
+    [
+     "S1-03",
+     "S1-05"
+    ],
+    [
+     "S1-03",
+     "S1-06"
+    ],
+    [
+     "S1-03",
+     "S1-07"
+    ],
+    [
+     "S1-04",
+     "S1-05"
+    ],
+    [
+     "S1-04",
+     "S1-06"
+    ],
+    [
+     "S1-04",
+     "S1-07"
+    ],
+    [
+     "S1-05",
+     "S1-06"
+    ],
+    [
+     "S1-05",
+     "S1-07"
+    ],
+    [
+     "S1-06",
+     "S1-07"
+    ]
+   ]
+  },
+  "note": "eight vessels stacked on one module",
+  "provenance": "synthetic",
+  "rows": [
+   {
+    "berth": "X1",
+    "eta": "2025-06-01 08:00",
+    "etd": "2025-06-01 12:00",
+    "modules": "1",
+    "vessel_id": "S1-00"
+   },
+   {
+    "berth": "X1",
+    "eta": "2025-06-01 08:30",
+    "etd": "2025-06-01 13:07",
+    "modules": "1",
+    "vessel_id": "S1-01"
+   },
+   {
+    "berth": "X1",
+    "eta": "2025-06-01 09:00",
+    "etd": "2025-06-01 14:14",
+    "modules": "1",
+    "vessel_id": "S1-02"
+   },
+   {
+    "berth": "X1",
+    "eta": "2025-06-01 09:30",
+    "etd": "2025-06-01 13:30",
+    "modules": "1",
+    "vessel_id": "S1-03"
+   },
+   {
+    "berth": "X1",
+    "eta": "2025-06-01 10:00",
+    "etd": "2025-06-01 14:37",
+    "modules": "1",
+    "vessel_id": "S1-04"
+   },
+   {
+    "berth": "X1",
+    "eta": "2025-06-01 10:30",
+    "etd": "2025-06-01 15:44",
+    "modules": "1",
+    "vessel_id": "S1-05"
+   },
+   {
+    "berth": "X1",
+    "eta": "2025-06-01 11:00",
+    "etd": "2025-06-01 15:00",
+    "modules": "1",
+    "vessel_id": "S1-06"
+   },
+   {
+    "berth": "X1",
+    "eta": "2025-06-01 11:30",
+    "etd": "2025-06-01 16:07",
+    "modules": "1",
+    "vessel_id": "S1-07"
+   }
+  ],
+  "tier": "stress"
+ },
+ {
+  "case_id": "S02",
+  "ground_truth": {
+   "fcfs_total_delay_min": 6405.0,
+   "optimal_status": "optimal",
+   "optimal_total_delay_min": 4865.0,
+   "reference_conflicts": [
+    [
+     "S2-00",
+     "S2-01"
+    ],
+    [
+     "S2-00",
+     "S2-05"
+    ],
+    [
+     "S2-01",
+     "S2-02"
+    ],
+    [
+     "S2-01",
+     "S2-05"
+    ],
+    [
+     "S2-01",
+     "S2-06"
+    ],
+    [
+     "S2-01",
+     "S2-08"
+    ],
+    [
+     "S2-02",
+     "S2-03"
+    ],
+    [
+     "S2-02",
+     "S2-05"
+    ],
+    [
+     "S2-02",
+     "S2-06"
+    ],
+    [
+     "S2-02",
+     "S2-09"
+    ],
+    [
+     "S2-03",
+     "S2-04"
+    ],
+    [
+     "S2-03",
+     "S2-06"
+    ],
+    [
+     "S2-03",
+     "S2-07"
+    ],
+    [
+     "S2-03",
+     "S2-09"
+    ],
+    [
+     "S2-03",
+     "S2-10"
+    ],
+    [
+     "S2-04",
+     "S2-06"
+    ],
+    [
+     "S2-04",
+     "S2-07"
+    ],
+    [
+     "S2-04",
+     "S2-10"
+    ],
+    [
+     "S2-05",
+     "S2-08"
+    ],
+    [
+     "S2-05",
+     "S2-09"
+    ],
+    [
+     "S2-05",
+     "S2-11"
+    ],
+    [
+     "S2-06",
+     "S2-09"
+    ],
+    [
+     "S2-06",
+     "S2-10"
+    ],
+    [
+     "S2-07",
+     "S2-10"
+    ],
+    [
+     "S2-08",
+     "S2-11"
+    ],
+    [
+     "S2-09",
+     "S2-11"
+    ]
+   ]
+  },
+  "note": "twelve vessels on chained module ranges",
+  "provenance": "synthetic",
+  "rows": [
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 08:00",
+    "etd": "2025-06-01 13:00",
+    "modules": "1-4",
+    "vessel_id": "S2-00"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 08:45",
+    "etd": "2025-06-01 14:14",
+    "modules": "3-6",
+    "vessel_id": "S2-01"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 09:30",
+    "etd": "2025-06-01 15:28",
+    "modules": "5-8",
+    "vessel_id": "S2-02"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 10:15",
+    "etd": "2025-06-01 16:42",
+    "modules": "7-10",
+    "vessel_id": "S2-03"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 11:00",
+    "etd": "2025-06-01 16:00",
+    "modules": "9-12",
+    "vessel_id": "S2-04"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 11:45",
+    "etd": "2025-06-01 17:14",
+    "modules": "2-5",
+    "vessel_id": "S2-05"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 12:30",
+    "etd": "2025-06-01 18:28",
+    "modules": "6-9",
+    "vessel_id": "S2-06"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 13:15",
+    "etd": "2025-06-01 19:42",
+    "modules": "10-12",
+    "vessel_id": "S2-07"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 14:00",
+    "etd": "2025-06-01 19:00",
+    "modules": "1-3",
+    "vessel_id": "S2-08"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 14:45",
+    "etd": "2025-06-01 20:14",
+    "modules": "4-7",
+    "vessel_id": "S2-09"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 15:30",
+    "etd": "2025-06-01 21:28",
+    "modules": "8-11",
+    "vessel_id": "S2-10"
+   },
+   {
+    "berth": "X2",
+    "eta": "2025-06-01 16:15",
+    "etd": "2025-06-01 22:42",
+    "modules": "3-5",
+    "vessel_id": "S2-11"
+   }
+  ],
+  "tier": "stress"
+ }
+]
